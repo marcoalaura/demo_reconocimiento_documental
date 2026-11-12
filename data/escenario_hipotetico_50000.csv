@@ -1,0 +1,5 @@
+ruta,cantidad_hipotetica,porcentaje_hipotetico,segundos_por_caso_supuestos,metodo
+Reglas/OCR,32500,65,0.12,NO MEDIDO
+Vision+ML,13000,26,0.9,NO MEDIDO
+Agente,3000,6,4.5,NO MEDIDO
+Revision humana,1500,3,90,NO MEDIDO

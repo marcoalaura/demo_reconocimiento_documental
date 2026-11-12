@@ -1,0 +1,12 @@
+archivo,tipo_esperado_didactico,calidad,observacion
+01_certificado_electrico.pdf,CE,texto_nativo,Encabezado claramente legible
+02_contrato_arrendamiento.pdf,CA,texto_nativo,Encabezado claramente legible
+03_pr_id_textual.pdf,IDPR,texto_nativo,IDPR ficticia no oficial
+04_factura_electrica.pdf,OTRO,texto_nativo,Factura electrica ejemplo
+05_escaneo_dificil.pdf,OTRO,borroso,Imagen degradada sin evidencia verificable
+06_idpr_escaneado.pdf,IDPR,escaneo,Texto recuperable con OCR
+07_escritura_no_id.pdf,OTRO,texto_nativo,Escritura con menciones a licencias
+08_tarjeta_didactica_nitida.pdf,IDPR,imagen_nitida,Tarjeta didactica ficticia sin campos de identidad real
+09_tarjeta_didactica_mala_calidad.pdf,IDPR,muy_baja_resolucion,Datos graficos de dificil reconocimiento
+10_certificado_inclinado_baja_res.pdf,CE,inclinado_baja_res,Certificado ficticio escaneado
+11_hoja_documental.pdf,OTRO,imagen_nitida,Documento sintetico de formato hoja
